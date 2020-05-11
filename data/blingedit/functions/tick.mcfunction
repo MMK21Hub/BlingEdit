@@ -1,0 +1,1 @@
+execute unless score Global deleted matches 1 run function blingedit:main

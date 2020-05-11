@@ -1,0 +1,4 @@
+scoreboard players set @s state 11
+execute as @s run function blingedit:create_click
+execute as @e[type=minecraft:magma_cube,tag=Corner,scores={type=2,bottom_center=1..}] if score @s player = Global player run function blingedit:execute097_ln802
+scoreboard players operation @s moving = Global moving
