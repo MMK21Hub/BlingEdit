@@ -1,0 +1,2 @@
+function blingedit:clear
+tellraw @s ["",{"text":"Chunk 0,0 wasn't loaded. Try again (or use "},{"text":"/forceload add 0 0","color":"aqua", "underlined":true,"hoverEvent":{"action":"show_text","value":"Quick input"},"clickEvent":{"action":"suggest_command","value":"/forceload add 0 0"}},{"text":")","color":"white"},"\n"]

@@ -1,0 +1,2 @@
+function blingedit:clear
+tellraw @s ["",{"text":"Чанк 0,0 не прогружен. Попробуйте снова (или используйте "},{"text":"/forceload add 0 0","color":"aqua", "underlined":true,"hoverEvent":{"action":"show_text","value":"Быстрый ввод"},"clickEvent":{"action":"suggest_command","value":"/forceload add 0 0"}},{"text":").","color":"white"},"\n"]

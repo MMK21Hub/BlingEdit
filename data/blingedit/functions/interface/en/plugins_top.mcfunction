@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Plugins:","color":"yellow"}]

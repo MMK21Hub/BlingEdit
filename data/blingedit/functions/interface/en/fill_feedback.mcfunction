@@ -1,0 +1,2 @@
+execute if score Global wall_count matches 0 run tellraw @s ["",{"text":"Filled "},{"score":{"name":"Global","objective":"vol"}},{"text":" blocks.\n"}]
+execute unless score Global wall_count matches 0 run tellraw @s ["",{"text":"Filled "},{"score":{"name":"Global","objective":"wall_count"}},{"text":" blocks.\n"}]

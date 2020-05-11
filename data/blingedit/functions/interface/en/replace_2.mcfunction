@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"Use "},{"text":"/setblock ~ ~ ~ <block>","hoverEvent":{"action":"show_text","value":"Quick input"},"clickEvent":{"action":"suggest_command","value":"/setblock ~ ~ ~ minecraft:"},"color":"gray"},{"text":" to pick the block they should be replaced with.  "},{"text":" ","bold":"true"},{"text":"[✖]","color":"red","clickEvent":{"action":"run_command","value":"/function blingedit:close"}}]
+tellraw @s ["",{"text":"Or replace "},{"text":"[air]","clickEvent":{"action":"run_command","value":"/function blingedit:replace2_air"},"color":"aqua"},"\n"]

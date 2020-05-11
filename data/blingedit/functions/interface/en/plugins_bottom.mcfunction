@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[Uninstall BlingEdit]","color":"red","clickEvent":{"action":"run_command","value":"/function blingedit:uninstall"}}, {"text":"                           ","clickEvent":{"action":"run_command","value":""}}, {"text":"[Cancel]","color":"red", "clickEvent":{"action":"run_command","value":"/function blingedit:close_plugins"}}]

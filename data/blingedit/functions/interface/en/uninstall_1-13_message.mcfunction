@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Chunk 0 0 is loaded now or has been marked to be force loaded. ("},{"text":"Unmark it","clickEvent":{"action":"suggest_command","value":"/forceload remove 0 0"},"color":"aqua","underlined":true},{"text":")","color":"white"}]

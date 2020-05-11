@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Плагины:","color":"yellow"}]

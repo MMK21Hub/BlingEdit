@@ -1,0 +1,3 @@
+execute if score Global air matches 0 run tellraw @s ["",{"text":"Replaced "},{"score":{"name":"Global","objective":"replaced_blocks"}},{"text":" blocks."},"\n"]
+execute if score Global air matches 1 run tellraw @s ["",{"text":"Replaced "},{"score":{"name":"Global","objective":"replaced"}},{"text":" out of "},{"score":{"name":"Global","objective":"replaced_blocks"}},{"text":" blocks."},"\n"]
+execute unless score @s brush_mode matches 1 run scoreboard players set Global air 0

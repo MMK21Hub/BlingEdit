@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Первая точка установлена ("},{"score":{"name":"Global","objective":"x"},"color":"red"},{"text":"/"},{"score":{"name":"Global","objective":"y"},"color":"red"},{"text":"/"},{"score":{"name":"Global","objective":"z"},"color":"red"},{"text":").\n\n"}]

@@ -1,0 +1,1 @@
+tellraw @s ["",{"score":{"name":"Global","objective":"vol"}},{"text":" blocks deleted.\n"}]

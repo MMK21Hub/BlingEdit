@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"BlingEdit doesn't work in peaceful mode  ☹"}]

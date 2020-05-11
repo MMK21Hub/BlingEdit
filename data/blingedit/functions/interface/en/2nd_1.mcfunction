@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"2nd corner at "},{"score":{"name":"Global","objective":"tx"},"color":"red"},{"text":"/"},{"score":{"name":"Global","objective":"ty"},"color":"red"},{"text":"/"},{"score":{"name":"Global","objective":"tz"},"color":"red"},{"text":"\n"}]

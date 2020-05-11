@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Заменено "},{"score":{"name":"Global","objective":"count"}},{"text":" блоков.\n"}]

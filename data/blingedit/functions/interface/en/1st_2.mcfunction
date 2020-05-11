@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"1st"},{"text":" ","bold":"true"},{"text":"corner at "},{"score":{"name":"@s","objective":"1x"},"color":"red"},{"text":"/"},{"score":{"name":"@s","objective":"1y"},"color":"red"},{"text":"/"},{"score":{"name":"@s","objective":"1z"},"color":"red"}]

@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Clone and Repeat","color":"green"},{"text":" is not implemented for perpendicular selections  ☹\n"}]
