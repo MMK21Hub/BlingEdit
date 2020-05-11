@@ -1,1 +1,1 @@
-# BlingEdit
+**Important:** BlingEdit is a datapack made by SethBling. I did not make the original version, or any of the official updates! This is just a place for me to work on patches/improvements, often for personal use.
