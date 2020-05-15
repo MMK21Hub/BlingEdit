@@ -1,0 +1,2 @@
+Loaded BlingEdit v1.1.2 by SethBling --> Loaded BetterBlingEdit v1.0 by MMK21, based on BlingEdit by SethBling
+Removed check for updates link
